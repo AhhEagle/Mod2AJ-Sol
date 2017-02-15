@@ -36,11 +36,11 @@ function ShoppingListCheckOffService(){
   var service = this;
 
   var buyList = [
-    { name: "potatoes", quantity: 5 },
-    { name: "bread", quantity: 10 },
-    { name: "cheese", quantity: 2 },
-    { name: "beer", quantity: 8 },
-    { name: "cookies", quantity: 10 }
+    { name: "Laptops", quantity: 15 },
+    { name: "Keyboards", quantity: 9 },
+    { name: "Mouse", quantity: 6 },
+    { name: "Headset", quantity: 4 },
+    { name: "Speakers", quantity: 9 }
   ];
 
   var boughtList = [];
